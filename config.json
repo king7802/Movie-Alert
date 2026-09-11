@@ -1,7 +1,7 @@
 {
   "detector": "venue_date",
   "movie": "The Odyssey (IMAX 2D)",
-  "requested_date": "20260908",
+  "requested_date": "20260915",
   "venue_code": "PVPU",
   "venue_label": "PVR IMAX with Laser, Priya",
   "url_template": "https://in.bookmyshow.com/movies/delhi/the-odyssey/buytickets/ET00480917/{date}",
